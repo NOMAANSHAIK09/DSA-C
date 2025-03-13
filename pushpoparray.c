@@ -1,4 +1,4 @@
-
+// this is a code for push pop operation ussing aaray of pointer
 #  include <stdio.h>
 int st[5] = {0};
 int stkpointer = -1;
