@@ -1,3 +1,5 @@
+// SINGLE LINKLIST FULLL CODE
+
 #include <stdio.h>
 # include<stdlib.h>
 struct node{
